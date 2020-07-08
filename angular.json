@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Angular-Food-App"
+    }
+  },
+  "defaultProject": "Angular-Food-App",
+  "cli": {
+    "analytics": "0248fcfe-13be-4a6f-8e2c-e4797bb24892"
+  }
 }
